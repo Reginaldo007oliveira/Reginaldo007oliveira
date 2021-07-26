@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/9b/81/77/9b8177099fb6a5abc52800bb46e4bca6.gif">
+  <img align="right" width="200" eight="200" alt="Rafa-yoda" src="https://i.pinimg.com/originals/9b/81/77/9b8177099fb6a5abc52800bb46e4bca6.gif">
 </div>
   
   ##
