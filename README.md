@@ -3,6 +3,7 @@
   <samp>Hi, I'm Reginaldo Oliveira, a developer from <img align="center" src="https://img.icons8.com/color/48/000000/brazil.png"/>. <br/> 
 </h1>
 
+  <h4 align="center">Curioso por natureza, solucionador de problemas, apaixonado por desafios e inconformado com o comodismo</h4>
 
 <h3 align="center">Where you can find me:</h3>
 <p align="center"> <samp>
