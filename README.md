@@ -77,4 +77,3 @@
  
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reginaldo007oliveira-ma&theme=onedark)](https://github.com/reginaldo007oliveira/github-profile-trophy)
