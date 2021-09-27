@@ -76,6 +76,6 @@
   </tr>
  
 </table>
-https://github-profile-trophy.vercel.app/?username=reginaldo007oliveira&title=Followers
+
 
 
