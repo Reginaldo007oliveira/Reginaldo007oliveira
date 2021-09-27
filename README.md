@@ -76,5 +76,5 @@
   </tr>
  
 </table>
-[![trophy](https://github-profile-trophy.vercel.app/?username=reginaldo007oliveira@gmail.com)](https://github.com/reginaldo007oliveira/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
